@@ -2,5 +2,5 @@
     <string name="app_name">TinaBook</string>
     <string name="welcome">Welcome to TinaBook. This app is a part of a college project in Android development which demonstrates the use of APIs."</string>
     <string name="info">The App allows you to search OpenLibrary. To begin, please use your Google account to log in.</string>
-    <string name="upute">To search, tap the magnifying glass and enter the search term, then tap the keyboard magnifying glass.</string>
+    <string name="upute">To search, tap the magnifying glass and enter the search term, then tap the keyboard magnifying glass!</string>
 </resources>
